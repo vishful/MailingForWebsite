@@ -3,15 +3,15 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <html>
 <head>
- <title>User Management Application</title>
+ <title>Mailing List</title>
 </head>
 <body>
  <center>
   <h1>User Management</h1>
         <h2>
-         <a href="new">Add New User</a>
+         <a href="new">Add New Customer</a>
          &nbsp;&nbsp;&nbsp;
-         <a href="list">List All Users</a>
+         <a href="list">List All Customers</a>
          
         </h2>
  </center>
