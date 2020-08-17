@@ -53,14 +53,6 @@
                 </td>
             </tr>
             <tr>
-                <th>Country: </th>
-                <td>
-                 <input type="text" name="country" size="15"
-                   value="<c:out value='${user.country}' />"
-                 />
-                </td>
-            </tr>
-            <tr>
              <td colspan="2" align="center">
               <input type="submit" value="Save" />
              </td>
