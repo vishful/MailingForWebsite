@@ -7,7 +7,7 @@
 </head>
 <body>
  <center>
-  <h1>User Management</h1>
+  <h1>Customer Management</h1>
         <h2>
          <a href="new">Add New Customer</a>
          &nbsp;&nbsp;&nbsp;
